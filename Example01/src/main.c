@@ -1,4 +1,4 @@
-/**
+/***
  * OpenGL 3 - Example 01
  *
  * @author	Norbert Nopper norbert@nopper.tv
